@@ -5,33 +5,33 @@
 ## PART 1: Launching Power BI & Loading Data 
 
 ### Step 1: Open Power BI Desktop 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d6cd68d5-46d2-4175-a705-2ea5bb8e5842" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7628ef61-1b6c-4e01-96e0-06c31bd01e07" />
 
 ### Step 2: Load the Dataset 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/92121e74-8ea9-4b5c-815c-fc63024e1223" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2b95415a-7f73-4222-a87d-609f69547be5" />
 
 ### Step 3: Verify Data in Data View 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f11fea86-0059-4e63-863a-79e7475fca84" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7aeb9cdb-8c18-4f72-9fd4-a572f3a260a5" />
 
 ---
 
 ## PART 2: Exploring the Interface 
 
 ### Report View
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/10de805e-677a-48ba-beeb-31907ee879dd" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ddfb996-638d-4b59-b4ed-047b90858b93" />
 
 ### Data View
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0be169a2-9de4-483f-bc0d-ba7e033f8b00" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf70805b-f8b9-4b54-9c3a-8e405ccb7b9d" />
 
 ### Model View
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18ba7ec9-3da3-4f41-b861-cf71e49822d5" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b0598da5-1546-435e-9c07-42c7fcd72747" />
 
 ---
 
 ## PART 3: Creating Auto-Generated Visuals 
 
 ### Step 1: Quick Visualization 
-<img width="390" height="286" alt="image" src="https://github.com/user-attachments/assets/c32895f3-4f65-4f45-a8b9-c044ada52f47" />
+<img width="382" height="273" alt="image" src="https://github.com/user-attachments/assets/0c240d3a-0d7d-4f5f-9952-ae800e14f4fd" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -40,7 +40,7 @@
 </ul>
 
 ### Step 2: Create a Sales by Region Chart 
-<img width="395" height="282" alt="image" src="https://github.com/user-attachments/assets/d90cdaba-315d-40f5-a3b8-f2969e50c808" />
+<img width="383" height="270" alt="image" src="https://github.com/user-attachments/assets/f9c239b6-cd50-406a-8dab-4d256d9a3b54" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -48,7 +48,7 @@
 </ul>
 
 ### Step 3: Sales by Category 
-<img width="394" height="282" alt="image" src="https://github.com/user-attachments/assets/07105d61-2a8d-4bbd-ac75-2c4fe8584114" />
+<img width="381" height="267" alt="image" src="https://github.com/user-attachments/assets/363029d2-e34f-4f57-b873-f6686c6e5060" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -57,7 +57,7 @@
 </ul>
 
 ### Step 4: Sales Over Time 
-<img width="392" height="283" alt="image" src="https://github.com/user-attachments/assets/e83206e9-b30c-47a4-a6b6-692772c3a43e" />
+<img width="382" height="267" alt="image" src="https://github.com/user-attachments/assets/56e08de9-9593-4f52-b91b-9ba620fc6941" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -120,7 +120,7 @@
 ## ENHANCEMENT SECTION - Advanced Exploration 
 
 ### Task 1: Add a Card Visualization 
-<img width="363" height="286" alt="image" src="https://github.com/user-attachments/assets/b9060830-54e9-49a3-bb57-bd0c32cc2819" />
+<img width="352" height="269" alt="image" src="https://github.com/user-attachments/assets/67000b94-f0e5-406a-9d62-b5de20796097" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -128,7 +128,7 @@
 </ul>
 
 ### Task 2: Add Slicer 
-<img width="365" height="284" alt="image" src="https://github.com/user-attachments/assets/91ebbab0-6da9-4a1a-b3d1-23c00912c249" />
+<img width="354" height="272" alt="image" src="https://github.com/user-attachments/assets/338e5c16-3fe1-4807-8e6c-8a965352e634" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>
@@ -137,7 +137,7 @@
 </ul>
 
 ### Task 3: Sort Sales 
-<img width="589" height="296" alt="image" src="https://github.com/user-attachments/assets/40ba06d1-4bd8-461f-b47b-3b1517276d1f" />
+<img width="593" height="293" alt="image" src="https://github.com/user-attachments/assets/e93444a6-fb99-49d2-ae98-483cbacda7f1" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
 <ul>

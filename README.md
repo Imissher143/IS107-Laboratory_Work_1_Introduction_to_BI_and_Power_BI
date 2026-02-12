@@ -4,13 +4,16 @@
 
 ## PART 1: Launching Power BI & Loading Data 
 
-### Step 1: Open Power BI Desktop 
+### Step 1: Open Power BI Desktop
+-  *This screenshot shows the Power BI Desktop startup screen after launching the application, ready for data import and analysis.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7628ef61-1b6c-4e01-96e0-06c31bd01e07" />
 
 ### Step 2: Load the Dataset 
+-  *This screenshot shows the process of importing the CSV dataset into Power BI Desktop, where the file `Week1_Basic_Sales_Data.csv` is selected and loaded for analysis.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2b95415a-7f73-4222-a87d-609f69547be5" />
 
-### Step 3: Verify Data in Data View 
+### Step 3: Verify Data in Data View
+-  *This screenshot shows the dataset loaded in Power BI's Data View, where all columns are visible and data types for each column can be verified and adjusted if needed.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7aeb9cdb-8c18-4f72-9fd4-a572f3a260a5" />
 
 ---
@@ -18,12 +21,15 @@
 ## PART 2: Exploring the Interface 
 
 ### Report View
+-  *This screenshot shows Power BI's Report View, where users can create and arrange visuals like charts and graphs on the canvas.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ddfb996-638d-4b59-b4ed-047b90858b93" />
 
 ### Data View
+-  *This screenshot shows Power BI's Data View, which allows users to see and inspect the raw dataset, including all rows and columns.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf70805b-f8b9-4b54-9c3a-8e405ccb7b9d" />
 
 ### Model View
+-  *This screenshot shows Power BI's Model View, where relationships between tables can be created and managed for proper data modeling.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b0598da5-1546-435e-9c07-42c7fcd72747" />
 
 ---
@@ -31,6 +37,7 @@
 ## PART 3: Creating Auto-Generated Visuals 
 
 ### Step 1: Quick Visualization 
+-  *This screenshot shows the automatic chart created when the Sales field is dragged onto the canvas, giving a quick summary of total sales.*
 <img width="382" height="273" alt="image" src="https://github.com/user-attachments/assets/0c240d3a-0d7d-4f5f-9952-ae800e14f4fd" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -40,6 +47,7 @@
 </ul>
 
 ### Step 2: Create a Sales by Region Chart 
+-  *This screenshot shows a Clustered Column Chart displaying total sales per region, helping to compare regional performance visually.*
 <img width="383" height="270" alt="image" src="https://github.com/user-attachments/assets/f9c239b6-cd50-406a-8dab-4d256d9a3b54" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -48,6 +56,7 @@
 </ul>
 
 ### Step 3: Sales by Category 
+-  *This screenshot shows a Pie Chart representing sales distribution across different product categories, highlighting the dominant categories.*
 <img width="381" height="267" alt="image" src="https://github.com/user-attachments/assets/363029d2-e34f-4f57-b873-f6686c6e5060" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -57,6 +66,7 @@
 </ul>
 
 ### Step 4: Sales Over Time 
+-  *This screenshot shows a Line Chart illustrating the trend of sales over time, making it easy to identify growth or decline patterns.*
 <img width="382" height="267" alt="image" src="https://github.com/user-attachments/assets/56e08de9-9593-4f52-b91b-9ba620fc6941" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -120,6 +130,7 @@
 ## ENHANCEMENT SECTION - Advanced Exploration 
 
 ### Task 1: Add a Card Visualization 
+-  *This screenshot shows a Card visualization displaying the total sales amount.*
 <img width="352" height="269" alt="image" src="https://github.com/user-attachments/assets/67000b94-f0e5-406a-9d62-b5de20796097" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -128,6 +139,7 @@
 </ul>
 
 ### Task 2: Add Slicer 
+-  *This screenshot shows a Slicer added for the Region field, allowing users to filter all visuals on the report page based on the selected region.*
 <img width="354" height="272" alt="image" src="https://github.com/user-attachments/assets/338e5c16-3fe1-4807-8e6c-8a965352e634" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>
@@ -137,6 +149,7 @@
 </ul>
 
 ### Task 3: Sort Sales 
+-  *This screenshot shows the Region chart sorted by sales in descending order, making it easier to see the highest and lowest performing regions.*
 <img width="593" height="293" alt="image" src="https://github.com/user-attachments/assets/e93444a6-fb99-49d2-ae98-483cbacda7f1" />
 
 <span style="font-size:25px; font-weight:bold;">Question:</span>

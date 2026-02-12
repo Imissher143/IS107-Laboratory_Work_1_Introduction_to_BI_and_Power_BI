@@ -1,4 +1,4 @@
-# IS107 - Laboratory Work 1 | Introduction to BI and Power BI
+# IS107 - Laboratory Work 1 - Introduction to Business Intelligence & Power BI 
 
 ---
 

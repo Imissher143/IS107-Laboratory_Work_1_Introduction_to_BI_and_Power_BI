@@ -18,6 +18,16 @@ Link To PDF: https://drive.google.com/file/d/1Tth80cO1rLSYMuP0NEczf8rZf4g1yQlV/v
 -  *This screenshot shows the dataset loaded in Power BI's Data View, where all columns are visible and data types for each column can be verified and adjusted if needed.*
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7aeb9cdb-8c18-4f72-9fd4-a572f3a260a5" />
 
+Question:
+
+Are all columns visible?
+Is “Date” formatted as Date?
+Is “Sales” formatted as Decimal Number?
+Answers:
+
+Yes, all columns are visible in the Data View.
+Yes, all data in date are formated as date
+No, the sales is not formatted as decimal, it was formatted as whole number
 ---
 
 ## PART 2: Exploring the Interface 

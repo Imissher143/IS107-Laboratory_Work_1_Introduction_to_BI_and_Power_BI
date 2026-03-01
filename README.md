@@ -28,6 +28,7 @@ Answers:
 Yes, all columns are visible in the Data View.
 Yes, all data in date are formated as date
 No, the sales is not formatted as decimal, it was formatted as whole number
+
 ---
 
 ## PART 2: Exploring the Interface 

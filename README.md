@@ -48,17 +48,6 @@ Link To PDF: https://drive.google.com/file/d/1Tth80cO1rLSYMuP0NEczf8rZf4g1yQlV/v
   <li><strong>What does it show?</strong> A value of around 250,000 as the sum of sales.</li>
 </ul>
 
-Question:
-
-Are all columns visible?
-Is “Date” formatted as Date?
-Is “Sales” formatted as Decimal Number?
-Answers:
-
-Yes, all columns are visible in the Data View.
-Yes, all data in date are formated as date
-No, the sales is not formatted as decimal, it was formatted as whole number
-
 ### Step 2: Create a Sales by Region Chart 
 -  *This screenshot shows a Clustered Column Chart displaying total sales per region, helping to compare regional performance visually.*
 <img width="383" height="270" alt="image" src="https://github.com/user-attachments/assets/f9c239b6-cd50-406a-8dab-4d256d9a3b54" />
